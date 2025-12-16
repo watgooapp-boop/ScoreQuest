@@ -1,0 +1,5 @@
+{
+  "name": "ScoreQuest: Student Result Portal",
+  "description": "A comprehensive student score announcement system allowing students to search results via ID and teachers to manage reports and settings.",
+  "requestFramePermissions": []
+}
